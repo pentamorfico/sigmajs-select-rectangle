@@ -11,6 +11,8 @@ A reusable rectangular selection tool for [Sigma.js](https://github.com/jacomyal
 
 ## Installation
 
+You can install this package using npm:
+
 ```bash
 npm install sigmajs-select-rectangle
 ```

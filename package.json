@@ -19,5 +19,8 @@
   },
   "peerDependencies": {
     "sigma": ">=3.0.0"
+  },
+  "dependencies": {
+    "sigmajs-select-rectangle": "^1.0.0"
   }
 }
