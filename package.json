@@ -1,0 +1,23 @@
+{
+  "name": "sigmajs-select-rectangle",
+  "version": "1.0.0",
+  "description": "A reusable rectangular selection tool for Sigma.js v3+.",
+  "main": "index.js",
+  "keywords": [
+    "sigmajs",
+    "sigma.js",
+    "selection",
+    "rectangle",
+    "graph",
+    "visualization"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/sigmajs-select-rectangle"
+  },
+  "peerDependencies": {
+    "sigma": ">=3.0.0"
+  }
+}
